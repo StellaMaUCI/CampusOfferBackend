@@ -12,5 +12,5 @@ https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux
 
 
 ## Database
-Local: Mysql workbench v8.0.31
+Local: Mysql workbench v8.0.31  
 Remote: Azure Database for MySQL flexible server v5.7
